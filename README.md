@@ -4,6 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=140&section=header&text=Hadassa%20Micaele&fontSize=38&fontColor=ffffff&animation=fadeIn"/>💗 🎀 💄 ✨ 💻 ✨ 💄 🎀 💗
 
+text=Bem-vindo%20ao%20meu%20perfil!
 </div>---
 
 🌷 Sobre mim
@@ -52,13 +53,8 @@
 
 ---
 
-📊 GitHub Stats
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadassamicaele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadassamicaele&layout=compact&theme=tokyonight&hide_border=true"/></div>---
-
 <div align="center">💄 ⋆｡°✩ 🎀 ✩°｡⋆ 💻 ⋆｡°✩ 🌷 ✩°｡⋆ 💄
 
-💋 Código, gloss e um pouquinho de criatividade.
 
 🌷 Um passo de cada vez. 🌷
 
