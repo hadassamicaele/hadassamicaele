@@ -4,10 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=140&section=header&text=Hadassa%20Micaele&fontSize=38&fontColor=ffffff&animation=fadeIn"/>💗 🎀 💄 ✨ 💻 ✨ 💄 🎀 💗
 
-text=Bem-vindo%20ao%20meu%20perfil!
-</div>---
 
-🌷 Sobre mim
+
+🌷 Sobre mim:
 
 💻 Sou estudante de Informática e estou construindo minha jornada na programação.
 
