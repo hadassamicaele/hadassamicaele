@@ -34,3 +34,87 @@
   │       todos os dias com muita dedicação.                │
   │                                                         │
   ╰─────────────────────────────────────────────────────────╯
+</div>
+
+
+​<!-- Seção de Tecnologias & Aprendizado -->
+
+
+​🌷 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 & 𝓈𝓉𝓊𝒹𝒾𝑒𝓈 💻
+
+
+​<p align="center">
+
+
+<!-- Python -->
+
+
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+
+<!-- Java -->
+
+
+<img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=007396"/>
+
+
+<!-- HTML5 -->
+
+
+<img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+
+<!-- CSS3 -->
+
+
+<img src="https://img.shields.io/badge/CSS3-FFE4E1?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+
+<!-- JavaScript -->
+
+
+<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+
+<!-- Sistemas Operacionais -->
+
+
+<img src="https://img.shields.io/badge/Sistemas_Operacionais-FFD1DC?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
+</p>
+
+
+​<!-- Estatísticas Estilizadas em Rosa -->
+
+
+<div align="center">
+
+
+​🎀 𝓈𝓉𝒶𝓉𝓈 & 𝒶𝒸𝓉𝒾𝓋𝒾𝓉𝓎 ✨
+
+
+​<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=555555&icon_color=ff85a1&border_color=ffb6c1&hide_border=false" />
+
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=555555&icon_color=ff85a1&border_color=ffb6c1&hide_border=false" />
+
+
+​</div>
+
+
+​<!-- Rodapé Fofo -->
+
+
+<div align="center">
+
+
+​<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,13,14,15&height=100&section=footer"/>
+
+
+​💗 Feito com muito carinho e código por Hadassa Micaele 💗
+
+
+​</div>
+
+
