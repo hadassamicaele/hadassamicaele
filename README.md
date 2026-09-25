@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Banner Interativo Estilo Waving Pastel -->
@@ -40,3 +41,122 @@
  │       algo novo todos os dias!                              │
  │                                                             │
  ╰─────────────────────────────────────────────────────────────╯
+
+
+
+
+
+td>
+
+
+</tr>
+
+
+</table>
+
+
+​<!-- MINHAS TECNOLOGIAS E ESTUDOS -->
+
+
+<div align="center">
+
+
+​🌷 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 & 𝓈𝓉𝓊𝒹𝒾𝑒𝓈 💻
+
+
+​<p align="center">
+
+
+<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+
+<img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=007396"/>
+
+
+<img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+
+<img src="https://img.shields.io/badge/CSS3-FFE4E1?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+
+<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+
+<img src="https://img.shields.io/badge/Sistemas_Operacionais-FFD1DC?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
+</p>
+
+
+​</div>
+
+
+​<!-- ESTATÍSTICAS E ESTATÍSTICAS DE LINGUAGEM EM CARDS ROSA -->
+
+
+<div align="center">
+
+
+​🎀 𝑔𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈 & 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 🎀
+
+
+​<p align="center">
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hadassamicaele&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=555555&icon_color=ff85a1&border_color=ffb6c1&hide_border=false" />
+
+
+  
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadassamicaele&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=555555&icon_color=ff85a1&border_color=ffb6c1&hide_border=false" />
+
+
+</p>
+
+
+​</div>
+
+
+​<!-- STREAK DE CONTRIBUIÇÕES PERSONALIZADO -->
+
+
+<div align="center">
+
+
+​<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadassamicaele&theme=rose_pine&background=fff0f5&border=ffb6c1&stroke=ff85a1&ring=ff69b4&fire=ff69b4&currStreakLabel=ff85a1" alt="Streak Stats" />
+
+
+​</div>
+
+
+​<!-- FRASE MOTIVACIONAL / RODAPÉ -->
+
+
+<div align="center">
+
+
+​<span>💗 🎀 💄 ✨ 💻 ✨ 💄 🎀 💗</span>
+
+
+
+
+​🌸 "Pequenos passos todos os dias levam a grandes conquistas." ☕✨
+
+
+
+
+
+
+​<!-- Banner do Rodapé -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,13,14,15&height=100&section=footer"/>
+
+
+​🎀 Feito com muito carinho por Hadassa Micaele 🌷
+
+
+​</div>
+
+
