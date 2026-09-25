@@ -1,56 +1,42 @@
 <div align="center">
 
-<!-- Banner de Cabeçalho Rosa -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=✦%20Hadassa%20Micaele%20✦&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<!-- Banner Interativo Estilo Waving Pastel -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,13,14,15&height=180&section=header&text= Hadassa%20Micaele%20 ✨&fontSize=38&fontColor=ffffff&animation=twinkle&fontAlignY=38"/>
+
+<!-- Efeito Digitação Animado -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=🌷+Estudante+de+Inform%C3%A1tica;🎀+Construindo+minha+jornada+tech;💻+Aprendendo+Python%2C+Java%2C+Web+%26+SO;🌱+Em+constante+evolu%C3%A7%C3%A3o!" alt="Typing SVG" />
+</a>
 
 <br/>
 
-# 💄✨ Oii! Eu sou a Hadassa Micaele 🌷
-
-🎀 **Estudante de Informática** • 💻 **Aprendendo Programação** • 🌱 **Em constante evolução**
-
-<br/>
-
-<span>💗 🎀 💄 ✨ 💻 ✨ 💄 🎀 💗</span>
+<span>🎀 ─── ⋆⋅☆⋅⋆ ─── 🩰 ─── ⋆⋅☆⋅⋆ ─── 🎀</span>
 
 </div>
 
 <br/>
 
----
+<!-- CARTÃO ESTILO COLAGEM / SCRAPBOOK -->
+<table align="center" width="100%">
+<tr>
+<td bgcolor="#FFF0F5" align="center">
 
-### 🌷 𝒮𝑜𝒷𝓇𝑒 𝓂𝒾𝓂
+## 🩰 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒 ✨
 
-> 💻 **Jornada:** Sou estudante de Informática e estou construindo minha caminhada no universo da tecnologia!  
-> 📚 **Estudos:** Atualmente aprendendo **Python**, **Java**, **HTML**, **CSS**, **JavaScript** e **Sistemas Operacionais**.  
-> 🌱 **Objetivo:** Evoluir um pouco mais a cada dia com muita dedicação!
-
----
-
-### 🎀 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 & 𝓈𝓉𝓊𝒹𝒾𝑒𝓈
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FFE4E1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sistemas_Operacionais-FFD1DC?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
----
-
-### ✨ 𝑔𝒾𝓉𝒽𝓊𝒷 𝓈𝓉𝒶𝓉𝓈
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hadassamicaele&bg_color=fff0f5&title_color=ff69b4&text_color=4a4a4a&icon_color=ff85a1&border_color=ffb6c1&show_icons=true" />
-
-<br/><br/>
-
-<!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=80&section=footer"/>
-
-🌸 *Feito com carinho por Hadassa Micaele* 🌸
-
-</div>
+```text
+ ╭─────────────────────────────────────────────────────────────╮
+ │                                                             │
+ │   💄 𝐻𝒶𝒹𝒶𝓈𝓈𝒶 𝑀𝒾𝒸𝒶𝑒𝓁𝑒                                       │
+ │   ───────────────────────────────────────────────────────   │
+ │   🌷  Sou estudante de Informática e estou apaixonada      │
+ │       pelo universo da programação e da tecnologia.        │
+ │                                                             │
+ │   📚  Atualmente focada no aprendizado de:                  │
+ │       • Python, Java e Fundamentos de Programação           │
+ │       • HTML5, CSS3 & JavaScript (Desenvolvimento Web)      │
+ │       • Conceitos e Arquitetura de Sistemas Operacionais   │
+ │                                                             │
+ │   🌱  Em constante evolução, aprendendo e praticando       │
+ │       algo novo todos os dias!                              │
+ │                                                             │
+ ╰─────────────────────────────────────────────────────────────╯
